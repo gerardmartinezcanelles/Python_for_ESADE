@@ -1,0 +1,201 @@
+expense_type,date,amount,currency
+Other,2025-01-07,111.82,EUR
+Other,2025-01-28,52.04,EUR
+Health products,2025-03-11,102.36,EUR
+Groceries,2025-01-30,94.39,EUR
+Restaurants,2025-01-19,91.36,EUR
+Groceries,2025-02-27,94.09,EUR
+Groceries,2025-03-04,49.99,EUR
+Health products,2025-03-03,199.66,EUR
+Restaurants,2025-03-04,187.52,EUR
+Clothes,2025-04-06,152.74,EUR
+Health products,2025-03-29,157.07,EUR
+Other,2025-03-24,61.12,EUR
+Other,2025-01-03,99.01,EUR
+Groceries,2025-01-01,77.79,EUR
+Health products,2025-01-06,163.4,EUR
+Restaurants,2025-02-20,181.6,EUR
+Health products,2025-02-17,121.49,EUR
+Health products,2025-02-17,178.9,EUR
+Restaurants,2025-03-10,21.17,EUR
+Other,2025-03-21,26.38,EUR
+Groceries,2025-01-02,122.9,EUR
+Groceries,2025-01-02,183.81,EUR
+Clothes,2025-04-04,12.47,EUR
+Clothes,2025-04-04,182.96,EUR
+Other,2025-01-26,46.57,EUR
+Health products,2025-03-14,66.37,EUR
+Other,2025-01-29,9.53,EUR
+Other,2025-03-28,147.27,EUR
+Health products,2025-02-24,71.3,EUR
+Other,2025-02-01,105.91,EUR
+Groceries,2025-03-14,153.63,EUR
+Restaurants,2025-01-16,61.51,EUR
+Groceries,2025-02-08,198.57,EUR
+Clothes,2025-01-08,6.83,EUR
+Restaurants,2025-02-11,109.63,EUR
+Health products,2025-03-11,143.63,EUR
+Restaurants,2025-03-23,86.53,EUR
+Health products,2025-04-13,58.81,EUR
+Clothes,2025-03-05,173.88,EUR
+Clothes,2025-03-29,196.06,EUR
+Health products,2025-02-03,156.65,EUR
+Other,2025-02-07,30.46,EUR
+Groceries,2025-02-26,45.33,EUR
+Other,2025-03-23,166.86,EUR
+Restaurants,2025-02-28,63.42,EUR
+Groceries,2025-04-04,61.85,EUR
+Other,2025-02-28,147.45,EUR
+Other,2025-02-15,144.86,EUR
+Other,2025-02-01,178.6,EUR
+Clothes,2025-01-10,135.02,EUR
+Clothes,2025-01-17,184.98,EUR
+Other,2025-04-08,151.02,EUR
+Groceries,2025-03-02,43.62,EUR
+Restaurants,2025-02-15,118.84,EUR
+Clothes,2025-01-08,161.39,EUR
+Clothes,2025-02-02,180.82,EUR
+Health products,2025-04-15,8.51,EUR
+Restaurants,2025-01-30,140.34,EUR
+Clothes,2025-04-12,52.74,EUR
+Groceries,2025-03-27,151.16,EUR
+Restaurants,2025-04-13,108.42,EUR
+Clothes,2025-01-05,92.58,EUR
+Other,2025-01-05,198.25,EUR
+Clothes,2025-03-20,57.15,EUR
+Health products,2025-02-04,21.76,EUR
+Groceries,2025-01-23,31.82,EUR
+Restaurants,2025-04-10,132.69,EUR
+Clothes,2025-02-04,142.61,EUR
+Clothes,2025-02-21,142.91,EUR
+Groceries,2025-02-25,47.7,EUR
+Clothes,2025-01-19,6.27,EUR
+Groceries,2025-02-05,194.72,EUR
+Health products,2025-02-22,81.07,EUR
+Restaurants,2025-01-26,187.48,EUR
+Restaurants,2025-02-19,22.93,EUR
+Restaurants,2025-03-19,128.41,EUR
+Restaurants,2025-03-22,60.57,EUR
+Restaurants,2025-04-05,101.28,EUR
+Other,2025-02-05,19.95,EUR
+Groceries,2025-03-11,187.37,EUR
+Clothes,2025-03-31,63.09,EUR
+Groceries,2025-04-06,183.07,EUR
+Clothes,2025-04-02,90.18,EUR
+Other,2025-02-26,176.16,EUR
+Health products,2025-03-22,92.42,EUR
+Restaurants,2025-01-14,176.33,EUR
+Clothes,2025-02-10,108.56,EUR
+Clothes,2025-04-14,122.8,EUR
+Clothes,2025-01-03,96.51,EUR
+Health products,2025-02-09,133.4,EUR
+Restaurants,2025-03-30,185.04,EUR
+Clothes,2025-02-20,50.77,EUR
+Restaurants,2025-03-19,157.08,EUR
+Other,2025-03-08,79.1,EUR
+Groceries,2025-03-17,117.04,EUR
+Groceries,2025-03-31,64.43,EUR
+Health products,2025-02-27,146.97,EUR
+Health products,2025-03-21,47.47,EUR
+Other,2025-03-17,59.8,EUR
+Groceries,2025-01-10,87.71,EUR
+Health products,2025-01-11,192.12,EUR
+Restaurants,2025-02-18,190.13,EUR
+Clothes,2025-02-25,191.52,EUR
+Clothes,2025-01-10,158.97,EUR
+Health products,2025-01-19,27.92,EUR
+Clothes,2025-01-07,103.97,EUR
+Restaurants,2025-04-02,91.7,EUR
+Clothes,2025-02-05,127.73,EUR
+Restaurants,2025-03-25,68.62,EUR
+Groceries,2025-01-30,53.7,EUR
+Health products,2025-01-28,93.74,EUR
+Other,2025-02-16,42.53,EUR
+Other,2025-04-06,124.07,EUR
+Clothes,2025-02-01,100.11,EUR
+Clothes,2025-03-31,108.64,EUR
+Restaurants,2025-02-24,163.35,EUR
+Restaurants,2025-02-28,131.73,EUR
+Clothes,2025-03-16,103.17,EUR
+Health products,2025-04-09,56.7,EUR
+Groceries,2025-04-02,91.09,EUR
+Restaurants,2025-02-27,90.04,EUR
+Restaurants,2025-03-23,13.27,EUR
+Restaurants,2025-03-02,175.23,EUR
+Groceries,2025-02-16,8.76,EUR
+Other,2025-03-16,187.67,EUR
+Restaurants,2025-02-20,8.9,EUR
+Groceries,2025-03-30,170.58,EUR
+Health products,2025-01-25,87.6,EUR
+Other,2025-02-02,189.54,EUR
+Health products,2025-04-05,191.27,EUR
+Health products,2025-03-04,189.29,EUR
+Other,2025-01-09,46.87,EUR
+Health products,2025-03-27,119.14,EUR
+Restaurants,2025-04-02,195.17,EUR
+Other,2025-02-16,125.86,EUR
+Clothes,2025-02-03,140.65,EUR
+Clothes,2025-02-26,46.22,EUR
+Other,2025-04-07,56.03,EUR
+Restaurants,2025-04-03,147.0,EUR
+Clothes,2025-04-02,87.26,EUR
+Groceries,2025-03-21,120.09,EUR
+Health products,2025-03-25,42.38,EUR
+Other,2025-04-01,123.3,EUR
+Groceries,2025-02-07,183.26,EUR
+Health products,2025-03-02,34.18,EUR
+Health products,2025-01-31,46.07,EUR
+Other,2025-01-03,43.55,EUR
+Clothes,2025-01-17,29.06,EUR
+Groceries,2025-03-03,197.14,EUR
+Groceries,2025-01-03,32.4,EUR
+Other,2025-02-25,42.1,EUR
+Clothes,2025-03-15,62.2,EUR
+Groceries,2025-03-25,128.5,EUR
+Groceries,2025-04-09,124.82,EUR
+Groceries,2025-02-25,191.96,EUR
+Restaurants,2025-04-04,77.89,EUR
+Other,2025-01-01,174.9,EUR
+Restaurants,2025-01-20,57.43,EUR
+Other,2025-01-20,169.89,EUR
+Restaurants,2025-03-19,140.71,EUR
+Health products,2025-02-22,147.08,EUR
+Other,2025-03-09,183.91,EUR
+Other,2025-01-06,138.71,EUR
+Health products,2025-03-20,31.84,EUR
+Other,2025-02-24,59.26,EUR
+Restaurants,2025-01-28,35.95,EUR
+Restaurants,2025-02-26,135.95,EUR
+Groceries,2025-02-13,187.01,EUR
+Other,2025-02-16,189.73,EUR
+Restaurants,2025-01-25,83.12,EUR
+Clothes,2025-01-10,102.23,EUR
+Other,2025-01-27,182.13,EUR
+Groceries,2025-01-17,161.05,EUR
+Restaurants,2025-03-01,154.96,EUR
+Clothes,2025-03-26,147.98,EUR
+Restaurants,2025-01-23,135.57,EUR
+Groceries,2025-02-14,109.24,EUR
+Groceries,2025-01-17,85.09,EUR
+Other,2025-01-24,42.96,EUR
+Groceries,2025-03-12,76.7,EUR
+Restaurants,2025-04-01,63.51,EUR
+Clothes,2025-01-13,21.78,EUR
+Health products,2025-01-01,13.83,EUR
+Groceries,2025-03-08,43.24,EUR
+Clothes,2025-02-13,80.3,EUR
+Restaurants,2025-04-11,17.08,EUR
+Health products,2025-02-26,167.78,EUR
+Health products,2025-02-18,127.52,EUR
+Clothes,2025-01-02,174.08,EUR
+Other,2025-03-23,113.13,EUR
+Groceries,2025-03-06,6.35,EUR
+Clothes,2025-01-24,120.88,EUR
+Clothes,2025-01-06,70.58,EUR
+Other,2025-01-05,193.85,EUR
+Other,2025-04-15,98.59,EUR
+Groceries,2025-01-29,67.26,EUR
+Groceries,2025-01-10,179.01,EUR
+Restaurants,2025-01-19,173.0,EUR
+Restaurants,2025-03-10,31.2,EUR
+Clothes,2025-03-20,9.04,EUR
